@@ -8,6 +8,7 @@
   },
   "author": "LightningWB",
   "license": "MIT",
+  "repository": "https://github.com/LightningWB/iron-curtain",
   "keywords": [
     "express",
     "middleware",
