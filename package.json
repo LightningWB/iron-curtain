@@ -1,6 +1,6 @@
 {
   "name": "iron-curtain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple middleware for express to require a login before viewing any content",
   "main": "index.js",
   "scripts": {
